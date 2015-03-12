@@ -1,3 +1,10 @@
+Package: choroplethrZip
+Version: 1.0.0
+Suggests: ggplot2
+License: MIT + file LICENSE
+MD5sum: 5715d14c2a8ecddde4a76a317965af27
+NeedsCompilation: no
+
 Package: drat
 Version: 0.0.2.2
 Suggests: git2r
